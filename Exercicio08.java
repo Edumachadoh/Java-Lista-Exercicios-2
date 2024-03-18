@@ -15,7 +15,7 @@ public class Exercicio08 {
         Prompt.imprimir("Vetor B: ");
         for (int i = 0; i < 5; i ++) {
             B[i] = Prompt.lerDecimal("Valor: ");
-            C[i + 5] = B[i];''
+            C[i + 5] = B[i];
         }
 
         Prompt.imprimir("Imprimindo vetor C: ");
