@@ -1,4 +1,4 @@
-/* Produto escalar*/
+/* produto de pares positivos*/
 public class Exercicio12 {
     public static void executar() {
        double[] vet = new double[12];
